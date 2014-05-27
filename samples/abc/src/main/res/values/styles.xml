@@ -22,7 +22,6 @@
     </style>
 
     <style name="Theme.AppCompat.CustomScrollStyle" parent="Theme.AppCompat">
-        <item name="ptrSmoothProgressBarStyle">@style/GPlusProgressBar</item>
     </style>
 
     <style name="Widget.Custom.PtrHeader" parent="android:Widget">

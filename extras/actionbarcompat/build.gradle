@@ -1,7 +1,7 @@
 apply plugin: 'android-library'
 
 dependencies {
-    compile project(':actionbarpulltorefresh')
+    compile project(':library')
     compile "com.android.support:appcompat-v7:+"
 }
 
